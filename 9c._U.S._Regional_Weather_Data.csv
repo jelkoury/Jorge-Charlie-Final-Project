@@ -1,0 +1,50 @@
+"9c. U.S. Regional Weather Data"
+"https://www.eia.gov/outlooks/steo/data/browser/#/?v=28&f=Q&s=00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&id=&maptype=0&ctype=linechart"
+"Tue Apr 04 2023 16:25:30 GMT-0400 (Eastern Daylight Time)"
+"Source: U.S. Energy Information Administration"
+"remove","","map","linechart","units","source key","Q1 2018","Q2 2018","Q3 2018","Q4 2018","Q1 2019","Q2 2019","Q3 2019","Q4 2019","Q1 2020","Q2 2020","Q3 2020","Q4 2020","Q1 2021","Q2 2021","Q3 2021","Q4 2021","Q1 2022","Q2 2022","Q3 2022","Q4 2022","Q1 2023","Q2 2023","Q3 2023","Q4 2023","Q1 2024","Q2 2024","Q3 2024","Q4 2024"
+"9c. U.S. Regional Weather Data","9c. U.S. Regional Weather Data",0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Heating Degree Days","Heating Degree Days",0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"New England","Heating Degree days: New England",1,1,"heating degree days","ZWHD_NEC",3051,903,69,2301,3227,896,135,2280,2734,972,114,2002,3013,781,84,1922,3140,789,116,1988,2725,864,133,2123,3072,846,133,2123
+"Middle Atlantic","Heating Degree days: Middle Atlantic",1,1,"heating degree days","ZWHD_MAC",2942,755,37,2050,2985,635,68,2065,2466,834,85,1829,2822,669,57,1727,2944,673,74,1968,2435,687,81,1941,2817,672,81,1941
+"East North Central","Heating Degree days: East North Central",1,1,"heating degree days","ZWHD_ENC",3211,826,60,2337,3326,760,64,2278,2786,845,125,2098,3085,706,69,1887,3269,753,100,2223,2713,735,123,2221,3073,730,123,2221
+"West North Central","Heating Degree days: West North Central",1,1,"heating degree days","ZWHD_WNC",3421,828,121,2601,3647,773,108,2549,3039,799,167,2317,3226,718,87,2026,3483,793,112,2516,3084,709,164,2456,3227,715,164,2456
+"South Atlantic","Heating Degree days: South Atlantic",1,1,"heating degree days","ZWHD_SAC",1445,219,2,969,1338,128,2,922,1110,253,17,879,1345,211,10,797,1339,188,13,977,1053,189,12,932,1356,188,12,930
+"East South Central","Heating Degree days: East South Central",1,1,"heating degree days","ZWHD_ESC",1813,325,3,1337,1712,193,1,1274,1482,336,20,1225,1791,314,19,1039,1822,248,22,1336,1399,248,19,1283,1794,256,19,1284
+"West South Central","Heating Degree days: West South Central",1,1,"heating degree days","ZWHD_WSC",1194,142,3,913,1207,90,0,848,970,101,8,735,1296,121,1,496,1338,56,2,805,973,75,4,804,1193,93,4,803
+"Mountain","Heating Degree days: Mountain",1,1,"heating degree days","ZWHD_MTN",2132,604,124,1970,2437,791,128,1976,2222,676,127,1782,2307,663,110,1636,2303,738,85,2015,2469,700,148,1877,2268,727,148,1876
+"Pacific","Heating Degree days: Pacific",1,1,"heating degree days","ZWHD_PAC",1440,539,84,1105,1687,576,96,1185,1536,528,65,1087,1566,488,77,1202,1408,607,49,1296,1674,616,86,1218,1538,625,86,1219
+"U.S. Average","Heating Degree days: U.S.",1,1,"heating degree days","ZWHDPUS",2137,524,48,1584,2217,482,57,1564,1880,543,70,1423,2108,472,51,1306,2149,492,54,1552,1885,489,73,1514,2081,491,73,1511
+"Heating Degree Days, Prior 10-Year Average","Heating Degree Days, Prior 10-Year Average",0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"New England","Heating Degree days, Prior 10-Year Average: New England",1,1,"heating degree days","ZWHD_NEC_10YR",3171,817,119,2120,3165,820,111,2122,3152,822,105,2127,3133,856,107,2100,3100,853,107,2104,3151,859,106,2095,3112,861,103,2077
+"Middle Atlantic","Heating Degree days, Prior 10-Year Average: Middle Atlantic",1,1,"heating degree days","ZWHD_MAC_10YR",2947,646,81,1949,2956,650,76,1941,2948,644,69,1944,2912,677,71,1911,2887,684,71,1908,2945,692,70,1912,2893,692,65,1899
+"East North Central","Heating Degree days, Prior 10-Year Average: East North Central",1,1,"heating degree days","ZWHD_ENC_10YR",3209,692,116,2210,3196,697,112,2198,3198,698,102,2197,3157,731,104,2170,3133,727,97,2162,3215,741,93,2168,3157,739,94,2145
+"West North Central","Heating Degree days, Prior 10-Year Average: West North Central",1,1,"heating degree days","ZWHD_WNC_10YR",3264,705,144,2380,3255,703,140,2380,3288,703,132,2380,3248,728,133,2368,3219,726,125,2357,3317,754,121,2373,3285,735,127,2346
+"South Atlantic","Heating Degree days, Prior 10-Year Average: South Atlantic",1,1,"heating degree days","ZWHD_SAC_10YR",1477,177,12,975,1481,177,11,965,1461,169,10,953,1395,181,11,916,1380,187,11,905,1401,190,10,904,1354,188,10,898
+"East South Central","Heating Degree days, Prior 10-Year Average: East South Central",1,1,"heating degree days","ZWHD_ESC_10YR",1868,217,18,1301,1861,221,17,1292,1849,214,15,1277,1771,231,16,1249,1763,243,15,1228,1809,251,14,1230,1756,247,15,1217
+"West South Central","Heating Degree days, Prior 10-Year Average: West South Central",1,1,"heating degree days","ZWHD_WSC_10YR",1181,80,4,801,1183,85,4,807,1199,83,3,794,1140,86,3,786,1145,93,3,754,1189,95,3,763,1168,89,3,742
+"Mountain","Heating Degree days, Prior 10-Year Average: Mountain",1,1,"heating degree days","ZWHD_MTN_10YR",2198,739,145,1845,2169,717,140,1861,2198,721,136,1850,2188,704,135,1850,2181,685,132,1818,2201,701,129,1841,2206,697,131,1829
+"Pacific","Heating Degree days, Prior 10-Year Average: Pacific",1,1,"heating degree days","ZWHD_PAC_10YR",1464,592,84,1182,1444,581,83,1174,1456,580,85,1162,1461,553,81,1147,1455,523,79,1136,1441,523,75,1148,1452,535,76,1148
+"U.S. Average","Heating Degree days, Prior 10-Year Average: U.S.",1,1,"heating degree days","ZWHD_US_10YR",2163,478,71,1526,2154,476,68,1520,2153,473,64,1512,2112,483,65,1487,2096,479,62,1473,2133,486,60,1478,2099,484,60,1463
+"Cooling Degree Days","Cooling Degree Days",0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"New England","Cooling Degree days: New England",1,1,"cooling degree days","ZWCD_NEC",0,83,585,0,0,66,469,0,0,102,542,0,0,141,457,7,0,80,558,0,0,85,417,2,0,86,417,2
+"Middle Atlantic","Cooling Degree days: Middle Atlantic",1,1,"cooling degree days","ZWCD_MAC",0,175,706,4,0,144,631,8,0,157,683,4,0,182,628,23,0,151,679,1,0,153,547,5,0,155,547,5
+"East North Central","Cooling Degree days: East North Central",1,1,"cooling degree days","ZWCD_ENC",0,332,636,4,0,175,650,7,2,219,609,2,2,250,629,30,1,256,555,2,0,213,535,7,0,212,535,7
+"West North Central","Cooling Degree days: West North Central",1,1,"cooling degree days","ZWCD_WNC",2,440,686,6,0,222,726,2,6,294,661,3,8,312,749,23,3,305,734,8,3,262,661,10,3,259,661,10
+"South Atlantic","Cooling Degree days: South Atlantic",1,1,"cooling degree days","ZWCD_SAC",136,728,1269,281,152,754,1295,307,195,617,1227,298,154,616,1173,285,157,713,1199,233,174,660,1175,241,128,656,1176,242
+"East South Central","Cooling Degree days: East South Central",1,1,"cooling degree days","ZWCD_ESC",37,651,1160,81,29,552,1219,87,73,423,1061,80,40,432,1014,125,29,599,1065,37,51,514,1058,68,28,505,1058,68
+"West South Central","Cooling Degree days: West South Central",1,1,"cooling degree days","ZWCD_WSC",125,1003,1564,164,72,821,1697,168,174,842,1507,212,90,769,1469,315,57,1095,1667,171,132,912,1515,201,84,857,1515,201
+"Mountain","Cooling Degree days: Mountain",1,1,"cooling degree days","ZWCD_MTN",20,500,989,49,10,336,979,58,10,463,1077,116,10,527,963,68,17,469,1016,66,11,421,918,73,16,414,920,73
+"Pacific","Cooling Degree days: Pacific",1,1,"cooling degree days","ZWCD_PAC",32,182,719,72,23,166,588,67,25,197,722,127,24,250,705,60,31,217,754,80,24,164,581,62,25,163,581,62
+"U.S. Average","Cooling Degree days: U.S.",1,1,"cooling degree days","ZWCDPUS",51,475,955,97,45,396,949,104,70,394,933,121,50,410,903,128,47,466,949,89,60,408,861,96,44,400,863,97
+"Cooling Degree Days, Prior 10-Year Average","Cooling Degree Days, Prior 10-Year Average",0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"New England","Cooling Degree days, Prior 10-Year Average: New England",1,1,"cooling degree days","ZWCD_NEC_10YR",0,81,433,1,0,79,455,1,0,83,471,1,0,80,474,1,0,87,471,2,0,87,479,2,0,86,476,2
+"Middle Atlantic","Cooling Degree days, Prior 10-Year Average: Middle Atlantic",1,1,"cooling degree days","ZWCD_MAC_10YR",0,166,566,5,0,165,589,6,0,170,609,6,0,163,610,6,0,162,608,8,0,159,613,8,0,159,616,8
+"East North Central","Cooling Degree days, Prior 10-Year Average: East North Central",1,1,"cooling degree days","ZWCD_ENC_10YR",3,228,533,7,3,242,548,7,3,240,579,8,3,234,572,7,3,238,571,9,1,234,561,10,1,234,567,10
+"West North Central","Cooling Degree days, Prior 10-Year Average: West North Central",1,1,"cooling degree days","ZWCD_WNC_10YR",7,277,659,11,7,298,668,11,7,296,696,11,7,294,686,10,7,299,681,11,4,292,674,12,4,295,675,12
+"South Atlantic","Cooling Degree days, Prior 10-Year Average: South Atlantic",1,1,"cooling degree days","ZWCD_SAC_10YR",119,675,1160,227,120,684,1179,239,127,695,1201,247,143,679,1194,260,147,668,1189,269,144,675,1193,273,151,682,1206,272
+"East South Central","Cooling Degree days, Prior 10-Year Average: East South Central",1,1,"cooling degree days","ZWCD_ESC_10YR",34,539,1031,63,36,555,1049,67,36,557,1082,72,42,532,1065,74,44,518,1057,83,36,521,1059,83,39,527,1073,84
+"West South Central","Cooling Degree days, Prior 10-Year Average: West South Central",1,1,"cooling degree days","ZWCD_WSC_10YR",100,887,1532,204,103,897,1552,205,100,892,1576,207,114,881,1568,210,113,853,1536,224,101,861,1548,223,107,874,1548,226
+"Mountain","Cooling Degree days, Prior 10-Year Average: Mountain",1,1,"cooling degree days","ZWCD_MTN_10YR",24,424,920,84,25,436,928,80,24,430,934,80,24,441,949,85,23,458,945,84,23,456,950,82,22,450,951,84
+"Pacific","Cooling Degree days, Prior 10-Year Average: Pacific",1,1,"cooling degree days","ZWCD_PAC_10YR",30,185,621,78,31,185,631,77,31,185,624,78,31,193,648,86,31,208,665,86,32,213,675,86,31,208,673,87
+"U.S. Average","Cooling Degree days, Prior 10-Year Average: U.S.",1,1,"cooling degree days","ZWCD_US_10YR",45,407,854,94,46,416,871,96,47,419,891,99,52,413,892,104,53,412,889,109,50,415,894,110,53,418,900,111
